@@ -58,6 +58,20 @@ LOG_LEVEL=INFO
 LOG_FILE=path/to/log/file
 ```
 
+## Entry Point
+
+After installing the dependencies and setting up your environment variables, you can start the AI Agent system using the following command:
+
+```bash
+python main.py
+```
+
+This will launch the main application, initializing the agent system and making it ready for document processing and query handling.
+
+- Make sure your environment variables are set (see the [Installation](#installation) section).
+- Place your documents in the appropriate directory as configured.
+- The system will be ready to accept queries and process documents as described in the usage examples below.
+- 
 
 ## Usage
 
