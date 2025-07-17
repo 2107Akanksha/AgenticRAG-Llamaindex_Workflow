@@ -61,6 +61,14 @@ LOG_FILE=path/to/log/file
 
 ## Usage
 
+## Architecture
+
+![Architecture](Architecture%20and%20structure/Architecture-AgenticRAG_llamaindex.png)
+
+## Structure
+
+![Structure](Architecture%20and%20structure/structure.PNG)
+
 ### Basic Usage
 
 ```python
