@@ -2,6 +2,7 @@
 
 An intelligent AI agent system that combines Retrieval-Augmented Generation (RAG), persistent memory management, query optimization and specialized tools for enhanced document processing and analysis.
 
+
 ## Features
 
 - **RAG (Retrieval-Augmented Generation)**
@@ -25,14 +26,15 @@ An intelligent AI agent system that combines Retrieval-Augmented Generation (RAG
   - Document Summarization
   - Custom tool integration framework
 
+
 ## Getting Started
 
 ### Prerequisites
 - Python 3.11 (preferable)
 
+### Installation
 
-
-### Clone the Repository
+Clone the Repository
 ```bash
 git clone https://github.com/2107Akanksha/AgenticRAG-Llamaindex_Workflow.git
 cd AI_Agent_assignment
@@ -42,8 +44,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-3. Set up environment variables:
-
+Set up environment variables:
 ```bash
 # Required
 GOOGLE_API_KEY=your_google_api_key
@@ -56,6 +57,7 @@ DOCUMENT_STORE_DIR=path/to/document/store
 LOG_LEVEL=INFO
 LOG_FILE=path/to/log/file
 ```
+
 
 ## Usage
 
